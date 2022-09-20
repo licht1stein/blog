@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/web-manifest",
-  "id": "6b482906-3ad2-579c-6927-cb5d9a72ba07",
+  "id": "24888f62-49b8-5e81-d9af-78f94dfa4ee7",
   "name": "Keep Thinking",
   "short_name": "trying to make myself think critically",
   "description": "My essays and posts about subjects of interest.",
@@ -15,7 +15,7 @@
     {
       "name": "Home",
       "short_name" : "home",
-      "url": "/"
+      "url": "blog/"
     }
   ],
   "icons": [

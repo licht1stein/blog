@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-us" xml:base="/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-us" xml:base="blog">
     <title type="html"><![CDATA[Narratives - Keep Thinking]]></title>
     <subtitle type="html"><![CDATA[My essays and posts about subjects of interest.]]></subtitle>
-    <link href="/narratives/" rel="alternate" type="text/html" title="HTML" />
-    <link href="/narratives/feeds/feed.atom.xml" rel="self" type="text/xml" title="Atom" />
-    <link href="/narratives/feeds/feed.rss.xml" rel="alternate" type="text/xml" title="Feed" />
-    <link href="/narratives/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
-    <icon>/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</icon>
-    <logo>/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</logo>
+    <link href="blog/narratives/" rel="alternate" type="text/html" title="HTML" />
+    <link href="blog/narratives/feeds/feed.atom.xml" rel="self" type="text/xml" title="Atom" />
+    <link href="blog/narratives/feeds/feed.rss.xml" rel="alternate" type="text/xml" title="Feed" />
+    <link href="blog/narratives/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
+    <icon>/blog/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</icon>
+    <logo>/blog/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</logo>
     <author>
         <name type="html"><![CDATA[Mykhaylo Beliansky]]></name>
         <email>mb@m1k.pw</email>
@@ -15,18 +15,18 @@
     <rights>Copyright © 2022-2022 Mykhaylo Beliansky</rights>
     <generator uri="https://gohugo.io" version="0.103.1">Hugo</generator>
     <updated>2012-09-20T00:00:00Z</updated>
-    <id>urn:uuid:42099b4a-f021-553f-d98f-e056c2568d7c</id>
+    <id>urn:uuid:0551b3f2-1681-53ff-690e-c61ad32f75d6</id>
     <entry>
         
         <category term="narratives" />
         
-        <link rel="alternate" type="type/html" href="/narratives/why-write-2022-09-20/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="blog/blog/narratives/why-write-2022-09-20/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Why write?]]></title>
         
         
         
         <published>2012-09-20T00:00:00Z</published>
-        <id>urn:uuid:c76d5f34-0548-5568-9991-d79047cfad00</id>
+        <id>urn:uuid:27c37ee6-0afe-545a-89de-f3d91e8f06bf</id>
         
                 <author>
                     <name>Mykhaylo Beliansky</name>

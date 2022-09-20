@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
     <url>
-        <loc>/narratives/</loc>
+        <loc>blog/narratives/</loc>
         <lastmod>2012-09-20T00:00:00Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/</loc>
+        <loc>blog/</loc>
         <lastmod>2012-09-20T00:00:00Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/narratives/why-write-2022-09-20/</loc>
+        <loc>blog/narratives/why-write-2022-09-20/</loc>
         <lastmod>2012-09-20T00:00:00Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/about/</loc>
+        <loc>blog/about/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/contact/</loc>
+        <loc>blog/contact/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/credits/</loc>
+        <loc>blog/credits/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/tags/</loc>
+        <loc>blog/tags/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
