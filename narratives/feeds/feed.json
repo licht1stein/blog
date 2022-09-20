@@ -1,11 +1,11 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Narratives - Keep Thinking",
-  "home_page_url": "https://keepthinking.blog?utm_source=json_feed",
+  "home_page_url": "/",
   
   "description": "My essays and posts about subjects of interest.",
-  "icon": "https://keepthinking.blog/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png",
-  "favicon": "https://keepthinking.blog/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png",
+  "icon": "/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png",
+  "favicon": "/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png",
   "authors": [
     {
       "name": "Mykhaylo Beliansky",
@@ -15,8 +15,8 @@
   "language" : "en-us",
   "items": [
     {
-      "id": "bf61ae97-39e6-543e-7941-6ce61c62986e",
-      "url": "https://keepthinking.blog/narratives/why-write-2022-09-20/?utm_source=json_feed",
+      "id": "c76d5f34-0548-5568-9991-d79047cfad00",
+      "url": "/narratives/why-write-2022-09-20/?utm_source=json_feed",
       "title": "Why write?",
       "summary": "Writing is a tool. And as any good tool it can be used for many things. Sharing information. Telling stories. Messaging. Influencing people to make the choice you want them to make. All these uses were clear to me for a long time, and they all were pretty self-explanatory.\nThere was one special use though, that I was wondering about for a long time.\nWriting helps you think. A couple of days ago I was flying from Lisbon to Krakow, first part of my journey to my home in Ukraine (why go there during the war is another story).",
       "date_published": "2012-09-20T00:00:00Z"

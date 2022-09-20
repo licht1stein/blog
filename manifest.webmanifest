@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/web-manifest",
-  "id": "15968a46-a8a6-581b-a9f8-3263cb0abadb",
+  "id": "6b482906-3ad2-579c-6927-cb5d9a72ba07",
   "name": "Keep Thinking",
   "short_name": "trying to make myself think critically",
   "description": "My essays and posts about subjects of interest.",
@@ -15,7 +15,7 @@
     {
       "name": "Home",
       "short_name" : "home",
-      "url": "https://licht1stein.github.io/blog"
+      "url": "/"
     }
   ],
   "icons": [

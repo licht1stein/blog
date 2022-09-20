@@ -8,16 +8,16 @@
     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
     xmlns:media="http://search.yahoo.com/mrss/"
     xml:lang="en-us"
-    xml:base="https://keepthinking.blog">
+    xml:base="/">
     <channel>
         <title type="html"><![CDATA[Narratives - Keep Thinking]]></title>
     </channel>
-    <link type="text/html">https://keepthinking.blog</link>
+    <link type="text/html">/</link>
     
     <image>
-        <url>https://keepthinking.blog/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</url>
+        <url>/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</url>
         <title type="html"><![CDATA[Narratives - Keep Thinking]]></title>
-        <link>https://keepthinking.blog</link>
+        <link>/</link>
         <width>96</width>
         <height>96</height>
     </image>
@@ -33,10 +33,10 @@
     <lastBuildDate>Thu, 20 Sep 2012 00:00:00 +0000</lastBuildDate>
     <item>
         <title type="html"><![CDATA[Why write?]]></title>
-        <link>https://keepthinking.blog/narratives/why-write-2022-09-20/?utm_source=rss_feed</link>
+        <link>/narratives/why-write-2022-09-20/?utm_source=rss_feed</link>
         <pubDate>Thu, 20 Sep 2012 00:00:00 +0000</pubDate>
         <category>narratives</category>
-        <guid isPermaLink="false">ab1530409ad9388902e26f720c030539</guid>
+        <guid isPermaLink="false">b808086cfac817205b13b96c5d3e0dde</guid>
         <description type="html"><![CDATA[Writing is a tool. And as any good tool it can be used for many things. Sharing information. Telling stories. Messaging. Influencing people to make the choice you want them to make. All these uses were clear to me for a long time, and they all were pretty self-explanatory.
 There was one special use though, that I was wondering about for a long time.
 Writing helps you think. A couple of days ago I was flying from Lisbon to Krakow, first part of my journey to my home in Ukraine (why go there during the war is another story).]]></description>
