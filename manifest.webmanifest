@@ -1,1 +1,37 @@
-{"$schema":"https://json.schemastore.org/web-manifest","id":"6b482906-3ad2-579c-6927-cb5d9a72ba07","name":"Keep Thinking","short_name":"trying to make myself think critically","description":"My essays and posts about subjects of interest.","lang":"en-us","dir":"ltr","start_url":"/index.html?source=pwa","display":"fullscreen","theme_color":"#ffffff","background_color":"#ffffff","orientation":"natural","shortcuts":[{"name":"Home","short_name":"home","url":"/"}],"icons":[{"src":"/icon-192.png","type":"image/png","sizes":"192x192","purpose":"any maskable"},{"src":"/icon-512.png","type":"image/png","sizes":"512x512","purpose":"any maskable"}]}
+{
+  "$schema": "https://json.schemastore.org/web-manifest",
+  "id": "6b482906-3ad2-579c-6927-cb5d9a72ba07",
+  "name": "Keep Thinking",
+  "short_name": "trying to make myself think critically",
+  "description": "My essays and posts about subjects of interest.",
+  "lang": "en-us",
+  "dir": "ltr",
+  "start_url": "/index.html?source=pwa",
+  "display": "fullscreen",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "orientation": "natural",
+  "shortcuts": [  
+    {
+      "name": "Home",
+      "short_name" : "home",
+      "url": "/"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
+
