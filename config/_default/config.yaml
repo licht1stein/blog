@@ -140,9 +140,9 @@ sitemap:
 author:
   name: Mykhaylo Beliansky
   email: mb@m1k.pw
-  github: licht1stein
-  twitter: beliansky
-  location: 'Kyiv, Ukraine'
+#  github: licht1stein
+#  twitter: beliansky
+#  location: 'Kyiv, Ukraine'
 
 # For more see https://gohugo.io/getting-started/configuration-markup/
 markup:
