@@ -3,9 +3,6 @@
 
     Author: Mykhaylo Beliansky
     Contact: mb@m1k.pw
-    GitHub: @licht1stein
-    Twitter: @beliansky
-    From: Kyiv, Ukraine
 
     /* SITE */
 

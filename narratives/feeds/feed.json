@@ -8,15 +8,14 @@
   "favicon": "/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png",
   "authors": [
     {
-      "name": "Mykhaylo Beliansky",
-      "url": "https://twitter.com/beliansky"
+      "name": "Mykhaylo Beliansky"
     }
   ],
   "language" : "en-us",
   "items": [
     {
-      "id": "c76d5f34-0548-5568-9991-d79047cfad00",
-      "url": "/narratives/why-write-2022-09-20/?utm_source=json_feed",
+      "id": "fa8af2f1-91bd-57d3-39b9-aa20bcc3c9d6",
+      "url": "/narratives/why-write/?utm_source=json_feed",
       "title": "Why write?",
       "summary": "Writing is a tool. And as any good tool it can be used for many things. Sharing information. Telling stories. Messaging. Influencing people to make the choice you want them to make. All these uses were clear to me for a long time, and they all were pretty self-explanatory.\nThere was one special use though, that I was wondering about for a long time.\nWriting helps you think. A couple of days ago I was flying from Lisbon to Krakow, first part of my journey to my home in Ukraine (why go there during the war is another story).",
       "date_published": "2022-09-20T00:00:00Z"
