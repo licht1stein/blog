@@ -1,5 +1,5 @@
 # You may need to change this line for your real project.
-baseURL: blog
+baseURL: https://licht1stein.github.io/blog
 
 languageCode: en-us
 defaultContentLanguage: en
