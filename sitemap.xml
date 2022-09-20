@@ -3,21 +3,21 @@
     
     <url>
         <loc>/narratives/</loc>
-        <lastmod>2022-09-20T00:00:00Z</lastmod>
+        <lastmod>2022-09-20T00:00:00+01:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/</loc>
-        <lastmod>2022-09-20T00:00:00Z</lastmod>
+        <lastmod>2022-09-20T00:00:00+01:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/narratives/why-write/</loc>
-        <lastmod>2022-09-20T00:00:00Z</lastmod>
+        <lastmod>2022-09-20T00:00:00+01:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
