@@ -3,7 +3,7 @@
 main:                # sections in the website sidebar
   - identifier: home # section id
     name: Home       # section display title
-    url: /           # path to the section
+    url: https://licht1stein.github.io/blog           # path to the section
     weight: 1        # order of sections
 
   # - identifier: about
