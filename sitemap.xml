@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
     <url>
-        <loc>blog/narratives/</loc>
+        <loc>https://licht1stein.github.io/blog/narratives/</loc>
         <lastmod>2012-09-20T00:00:00Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>blog/</loc>
+        <loc>https://licht1stein.github.io/blog/</loc>
         <lastmod>2012-09-20T00:00:00Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>blog/narratives/why-write-2022-09-20/</loc>
+        <loc>https://licht1stein.github.io/blog/narratives/why-write-2022-09-20/</loc>
         <lastmod>2012-09-20T00:00:00Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>blog/about/</loc>
+        <loc>https://licht1stein.github.io/blog/about/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>blog/contact/</loc>
+        <loc>https://licht1stein.github.io/blog/contact/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>blog/credits/</loc>
+        <loc>https://licht1stein.github.io/blog/credits/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>blog/tags/</loc>
+        <loc>https://licht1stein.github.io/blog/tags/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>

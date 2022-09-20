@@ -8,23 +8,23 @@
     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
     xmlns:media="http://search.yahoo.com/mrss/"
     xml:lang="en-us"
-    xml:base="blog">
+    xml:base="https://licht1stein.github.io/blog">
     <channel>
         <title type="html"><![CDATA[Narratives - Keep Thinking]]></title>
     </channel>
-    <link type="text/html">blog/blog</link>
+    <link type="text/html">https://licht1stein.github.io/blog</link>
     
     <image>
-        <url>/blog/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</url>
+        <url>https://licht1stein.github.io/blog/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</url>
         <title type="html"><![CDATA[Narratives - Keep Thinking]]></title>
-        <link>blog/blog</link>
+        <link>https://licht1stein.github.io/blog</link>
         <width>96</width>
         <height>96</height>
     </image>
-    <atom:link href="blog/narratives/" rel="alternate" type="text/html" title="HTML" />
-    <atom:link href="blog/narratives/feeds/feed.atom.xml" rel="alternate" type="text/xml" title="Atom" />
-    <atom:link href="blog/narratives/feeds/feed.rss.xml" rel="self" type="text/xml" title="Feed" />
-    <atom:link href="blog/narratives/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
+    <atom:link href="/blog/narratives/" rel="alternate" type="text/html" title="HTML" />
+    <atom:link href="/blog/narratives/feeds/feed.atom.xml" rel="alternate" type="text/xml" title="Atom" />
+    <atom:link href="/blog/narratives/feeds/feed.rss.xml" rel="self" type="text/xml" title="Feed" />
+    <atom:link href="/blog/narratives/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
     <description type="html"><![CDATA[My essays and posts about subjects of interest.]]></description>
     <generator>Hugo 0.103.1</generator>
     <dc:creator type="html"><![CDATA[Mykhaylo Beliansky]]></dc:creator>
@@ -33,10 +33,10 @@
     <lastBuildDate>Thu, 20 Sep 2012 00:00:00 +0000</lastBuildDate>
     <item>
         <title type="html"><![CDATA[Why write?]]></title>
-        <link>blog/blog/narratives/why-write-2022-09-20/?utm_source=rss_feed</link>
+        <link>https://licht1stein.github.io/blog/narratives/why-write-2022-09-20/?utm_source=rss_feed</link>
         <pubDate>Thu, 20 Sep 2012 00:00:00 +0000</pubDate>
         <category>narratives</category>
-        <guid isPermaLink="false">8ea2735ade64bcebe06611b8c8c94a71</guid>
+        <guid isPermaLink="false">82030091c6704bc5fea07439017a7127</guid>
         <description type="html"><![CDATA[Writing is a tool. And as any good tool it can be used for many things. Sharing information. Telling stories. Messaging. Influencing people to make the choice you want them to make. All these uses were clear to me for a long time, and they all were pretty self-explanatory.
 There was one special use though, that I was wondering about for a long time.
 Writing helps you think. A couple of days ago I was flying from Lisbon to Krakow, first part of my journey to my home in Ukraine (why go there during the war is another story).]]></description>

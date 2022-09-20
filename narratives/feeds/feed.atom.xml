@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-us" xml:base="blog">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-us" xml:base="https://licht1stein.github.io/blog">
     <title type="html"><![CDATA[Narratives - Keep Thinking]]></title>
     <subtitle type="html"><![CDATA[My essays and posts about subjects of interest.]]></subtitle>
-    <link href="blog/narratives/" rel="alternate" type="text/html" title="HTML" />
-    <link href="blog/narratives/feeds/feed.atom.xml" rel="self" type="text/xml" title="Atom" />
-    <link href="blog/narratives/feeds/feed.rss.xml" rel="alternate" type="text/xml" title="Feed" />
-    <link href="blog/narratives/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
-    <icon>/blog/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</icon>
-    <logo>/blog/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</logo>
+    <link href="/blog/narratives/" rel="alternate" type="text/html" title="HTML" />
+    <link href="/blog/narratives/feeds/feed.atom.xml" rel="self" type="text/xml" title="Atom" />
+    <link href="/blog/narratives/feeds/feed.rss.xml" rel="alternate" type="text/xml" title="Feed" />
+    <link href="/blog/narratives/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
+    <icon>https://licht1stein.github.io/blog/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</icon>
+    <logo>https://licht1stein.github.io/blog/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</logo>
     <author>
         <name type="html"><![CDATA[Mykhaylo Beliansky]]></name>
         <email>mb@m1k.pw</email>
@@ -15,18 +15,18 @@
     <rights>Copyright © 2022-2022 Mykhaylo Beliansky</rights>
     <generator uri="https://gohugo.io" version="0.103.1">Hugo</generator>
     <updated>2012-09-20T00:00:00Z</updated>
-    <id>urn:uuid:0551b3f2-1681-53ff-690e-c61ad32f75d6</id>
+    <id>urn:uuid:35c0a814-ec67-5950-f9f7-2259e7c9f15e</id>
     <entry>
         
         <category term="narratives" />
         
-        <link rel="alternate" type="type/html" href="blog/blog/narratives/why-write-2022-09-20/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="https://licht1stein.github.io/blog/narratives/why-write-2022-09-20/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Why write?]]></title>
         
         
         
         <published>2012-09-20T00:00:00Z</published>
-        <id>urn:uuid:27c37ee6-0afe-545a-89de-f3d91e8f06bf</id>
+        <id>urn:uuid:e2ea6c44-2720-5cd4-0997-e487cabcc9b4</id>
         
                 <author>
                     <name>Mykhaylo Beliansky</name>
