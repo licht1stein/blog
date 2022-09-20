@@ -61,16 +61,17 @@ contact:
 # Site icons, relative to ./static
 assets:
   # favicon.ico for legacy browsers
-  favicon: ''
+  favicon: 'favicon.ico'
 
   # A single SVG icon with a light/dark version for modern browsers
   svgicon: ''
 
   # 180×180 PNG image for Apple devices
-  apple_touch_icon: ''
+  apple_touch_icon: 'apple-touch-icon.png'
 
   # Logo image, relative to ./assets
-  logo: /img/open-graph-logo.png
+  #logo: /img/open-graph-logo.png
+  logo: ''
   disable_fingerprinting: false
 
 seo:
