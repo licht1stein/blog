@@ -6,10 +6,10 @@ main:                # sections in the website sidebar
     url: /           # path to the section
     weight: 1        # order of sections
 
-  - identifier: about
-    name: About
-    url: /about/
-    weight: 2
+  # - identifier: about
+  #   name: About
+  #   url: /about/
+  #   weight: 2
 
   # - identifier: credits
   #   name: Credits

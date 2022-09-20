@@ -24,9 +24,6 @@ tagline: trying to make myself think critically
 # Custom footer text on left sidebar. Use HTMl if needed.
 # "&copy;" and "{year}" will be replaced by © and the current year.
 footer: >-
-  Built with <a href="https://github.com/sergeyklay/gohugo-theme-ed"
-  target="_blank" rel="noopener noreferrer">Ed</a>. Distributed under an MIT
-  license.
 
 # Sections to be displayed in:
 # - main page
@@ -79,7 +76,7 @@ assets:
 seo:
   # Will be used in schema.org/Organization.
   # The site.Title  will be used if empty.
-  publisher: Serghei Iakovlev
+  publisher: Mykhaylo Beliansky
 
   # To anonymize the IP addresses of hits sent to Google Analytics
   # set this param to true. Please note, to enable Google Analytics
