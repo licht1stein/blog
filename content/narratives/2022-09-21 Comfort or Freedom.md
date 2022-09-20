@@ -1,7 +1,7 @@
 ---
 title: Comfort or Freedom
 date: 2022-09-21
-draft: false
+draft: true
 author: Mykhaylo Beliansky
 toc: false
 slug: comfort-or-freedom
