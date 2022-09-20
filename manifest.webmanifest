@@ -15,7 +15,7 @@
     {
       "name": "Home",
       "short_name" : "home",
-      "url": "/blog/"
+      "url": "https://licht1stein.github.io/blog"
     }
   ],
   "icons": [
