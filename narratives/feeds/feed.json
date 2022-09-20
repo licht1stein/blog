@@ -1,0 +1,25 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Narratives - Keep Thinking",
+  "home_page_url": "/",
+  
+  "description": "My essays and posts about subjects of interest.",
+  "icon": "/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png",
+  "favicon": "/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png",
+  "authors": [
+    {
+      "name": "Mykhaylo Beliansky",
+      "url": "https://twitter.com/beliansky"
+    }
+  ],
+  "language" : "en-us",
+  "items": [
+    {
+      "id": "671124e0-9c83-59e8-f9ed-b56035a176c6",
+      "url": "/narratives/narrative/?utm_source=json_feed",
+      "title": "Why write?",
+      "summary": "Writing is a tool. And as any good tool it can be used for many things. Sharing information. Telling stories. Messaging. Influencing people to make the choice you want them to make. All these uses were clear to me for a long time, and they all were pretty self-explanatory.\nThere was one special use though, that I was wondering about for a long time.\nWriting helps you think. A couple of days ago I was flying from Lisbon to Krakow, first part of my journey to my home in Ukraine (why go there during the war is another story).",
+      "date_published": "2012-09-20T00:00:00Z"
+    }
+  ]
+}

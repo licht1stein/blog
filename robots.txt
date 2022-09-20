@@ -1,0 +1,3 @@
+# robots.txt file for "Keep Thinking" website, 
+User-agent: *
+Disallow: /

@@ -1,0 +1,16 @@
+
+    /* TEAM */
+
+    Author: Mykhaylo Beliansky
+    Contact: mb@m1k.pw
+    GitHub: @licht1stein
+    Twitter: @beliansky
+    From: Kyiv, Ukraine
+
+    /* SITE */
+
+    Last update: 2022/09/20
+    Language: English
+    Doctype: HTML5
+    Standards: HTML5, CSS3, Open Graph protocol, Schema.org
+    Components: Hugo, jQuery, Ed Theme
