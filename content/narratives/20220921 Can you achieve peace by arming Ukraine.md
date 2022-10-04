@@ -10,7 +10,7 @@ tags:
   - Russia
   - propaganda
 toc: false
-slug: "/"
+slug: Can you achieve piece by arming Ukraine?
 ---
 
 When the war started many people left Ukraine. In fact it was largest movement of people in the modern history, with 12 millions crossing the border since Russia tried to invade us on February 24.
@@ -23,8 +23,14 @@ It's obvious that it's very hard to tell what's going on if you live in Portugal
 
 So I thought why not try thinking about them. So here goes. Let's start with the one that I find the most curios.
 
-# What is Ukraine defending?
-You can have this in different flavors, like "you cannot reach peace by providing more weapons" or "Ukraine should do a better job negotiating peace" etc. This raises an interesting and obvious question: when you blame Ukraine for prolonging the war by *defending*, why don't you blame Russia for prolonging it by attacking?
+# You cannot beat Russia
+This belief takes many forms. I think Russia spend millions of dollars convincing everybody that it was not possible. And they will try again to sell this story to the world today, when Putin will declare a total war against us and announce mobilization.
+
+You can have this opinion in many different flavors, like "you cannot reach peace by providing more weapons" or "Ukraine should do a better job negotiating peace" etc. If you continue the logical line of reasoning, they will all bring you to the conclusion that there is something special about Russia, that makes it unbeatable. The notorious Russian soul perhaps. But let's see if this story even has a right to exists.
+
+## So, you cannot beat Russia, can you?
+So, is there something so special about the Russians and their army that makes them unbeatable? Let's do some basic research:
+
 
 
 

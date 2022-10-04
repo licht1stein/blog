@@ -1,0 +1,3 @@
+{:paths ["bb"]
+ :tasks {serve {:doc "Start local hugo server"
+                :task (shell "hugo serve -D")}}}
