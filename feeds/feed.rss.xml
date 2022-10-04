@@ -29,11 +29,22 @@
     <atom:link href="/manifest.webmanifest" rel="alternate" type="application/manifest+json" title="Manifest" />
     <atom:link href="/humans.txt" rel="alternate" type="text/plain" title="humanstxt" />
     <description type="html"><![CDATA[My essays and posts about subjects of interest.]]></description>
-    <generator>Hugo 0.103.1</generator>
+    <generator>Hugo 0.104.3</generator>
     <dc:creator type="html"><![CDATA[Mykhaylo Beliansky]]></dc:creator>
     <language>en-us</language>
     <copyright>Copyright © 2022-2022 Mykhaylo Beliansky</copyright>
-    <lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0100</lastBuildDate>
+    <item>
+        <title type="html"><![CDATA[Elon Musk and the Magic of Names]]></title>
+        <link>/narratives/elon-musk-and-the-magic-of-names/?utm_source=rss_feed</link>
+        <pubDate>Tue, 04 Oct 2022 00:00:00 +0100</pubDate>
+        <category>narratives</category>
+        <guid isPermaLink="false">3e38bfa410955856927be946b210f41e</guid>
+        <description type="html"><![CDATA[Yesterday a strange thing happened. You have probably seen it:
+I&rsquo;m not going to concentrate on all the ways posting this was wrong. I expect there will be a shit storm strong enough without my five cents. In the spirit of this blog I&rsquo;m more interested in the questions relating to thinking and knowledge. And there&rsquo;s an obvious one.
+How do we know that we really know what we think we know?]]></description>
+    </item>
+    
     <item>
         <title type="html"><![CDATA[Why write?]]></title>
         <link>/narratives/why-write/?utm_source=rss_feed</link>
