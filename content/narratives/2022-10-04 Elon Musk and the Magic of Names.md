@@ -6,6 +6,7 @@ author: Mykhaylo Beliansky
 toc: false
 slug: elon-musk-and-the-magic-of-names
 keywords: Ukraine, Elon Musk, Crimea, Twitter, thinking, critical thinking
+socialshare: true
 ---
 Yesterday a strange thing happened. You have probably seen it:
 
