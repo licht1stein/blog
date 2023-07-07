@@ -4,7 +4,7 @@
   "name": "Keep Thinking",
   "short_name": "trying to make myself think critically",
   "description": "My essays and posts about subjects of interest.",
-  "lang": "en-us",
+  "lang": "en",
   "dir": "ltr",
   "start_url": "/index.html?source=pwa",
   "display": "fullscreen",

@@ -11,8 +11,15 @@
       "name": "Mykhaylo Beliansky"
     }
   ],
-  "language" : "en-us",
+  "language" : "en",
   "items": [
+    {
+      "id": "14d761a6-459c-571f-e90d-231bd28cb186",
+      "url": "/narratives/propaganda-tricks-1/?utm_source=json_feed",
+      "title": "On Small Propaganda Tricks",
+      "summary": "I had a short discussion on Mastodon today that started with this post:\nSince this was a stone thrown at Ukraine I had to participate.\nBut this blog post and this blog is not about Ukraine but about thinking, so let\u0026rsquo;s look at this at a slightly different angle, which does not require us to take sides in the immediate discussion about Ukraine, Canadian aid or land ownership, but rather explains a trick that is used by propagandists all over the world so much, that it\u0026rsquo;s probably one of the oldest and most used in the book.",
+      "date_published": "2023-07-07T00:00:00+01:00"
+    },
     {
       "id": "dd8680b5-93e7-5e2a-2907-eba8b38266af",
       "url": "/narratives/elon-musk-and-the-magic-of-names/?utm_source=json_feed",

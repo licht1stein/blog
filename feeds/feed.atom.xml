@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-us" xml:base="/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="/">
     <title type="html"><![CDATA[Keep Thinking]]></title>
     <subtitle type="html"><![CDATA[My essays and posts about subjects of interest.]]></subtitle>
-    <link href="/" rel="alternate" type="text/html" title="HTML" />
+    <link href="/" rel="alternate" type="text/html" title="html" />
     <link href="/feeds/feed.atom.xml" rel="self" type="text/xml" title="Atom" />
     <link href="/feeds/feed.rss.xml" rel="alternate" type="text/xml" title="Feed" />
     <link href="/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
-    <link href="/index.json" rel="alternate" type="application/json" title="JSON" />
+    <link href="/index.json" rel="alternate" type="application/json" title="json" />
     <link href="/manifest.webmanifest" rel="alternate" type="application/manifest+json" title="Manifest" />
     <link href="/humans.txt" rel="alternate" type="text/plain" title="humanstxt" />
     <icon>/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</icon>
@@ -15,10 +15,30 @@
         <name type="html"><![CDATA[Mykhaylo Beliansky]]></name>
         <email>mb@m1k.pw</email>
     </author>
-    <rights>Copyright © 2022-2022 Mykhaylo Beliansky</rights>
-    <generator uri="https://gohugo.io" version="0.104.3">Hugo</generator>
-    <updated>2022-10-04T00:00:00+01:00</updated>
+    <rights>Copyright © 2022-2023 Mykhaylo Beliansky</rights>
+    <generator uri="https://gohugo.io" version="0.115.1">Hugo</generator>
+    <updated>2023-07-07T00:00:00+01:00</updated>
     <id>urn:uuid:42099b4a-f021-553f-d98f-e056c2568d7c</id>
+    <entry>
+        
+        <category term="narratives" />
+        
+        <link rel="alternate" type="type/html" href="/narratives/propaganda-tricks-1/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[On Small Propaganda Tricks]]></title>
+        
+        
+        
+        <published>2023-07-07T00:00:00+01:00</published>
+        <id>urn:uuid:14d761a6-459c-571f-e90d-231bd28cb186</id>
+        
+                <author>
+                    <name>Mykhaylo Bilyanskyy</name>
+                </author>
+        
+        <summary type="html"><![CDATA[I had a short discussion on Mastodon today that started with this post:
+Since this was a stone thrown at Ukraine I had to participate.
+But this blog post and this blog is not about Ukraine but about thinking, so let&rsquo;s look at this at a slightly different angle, which does not require us to take sides in the immediate discussion about Ukraine, Canadian aid or land ownership, but rather explains a trick that is used by propagandists all over the world so much, that it&rsquo;s probably one of the oldest and most used in the book.]]></summary>
+    </entry>
     <entry>
         
         <category term="narratives" />

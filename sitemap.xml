@@ -2,21 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
     <url>
-        <loc>/narratives/elon-musk-and-the-magic-of-names/</loc>
-        <lastmod>2022-10-04T00:00:00+01:00</lastmod>
+        <loc>/narratives/</loc>
+        <lastmod>2023-07-07T00:00:00+01:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/narratives/</loc>
-        <lastmod>2022-10-04T00:00:00+01:00</lastmod>
+        <loc>/narratives/propaganda-tricks-1/</loc>
+        <lastmod>2023-07-07T00:00:00+01:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/</loc>
+        <lastmod>2023-07-07T00:00:00+01:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/narratives/elon-musk-and-the-magic-of-names/</loc>
         <lastmod>2022-10-04T00:00:00+01:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
