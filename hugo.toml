@@ -21,6 +21,7 @@ enableRobotsTXT = true
 
 [params]
     title = "Keep Thinking"
+    description = "A blog about critical thinking during the war in Ukraine and modern times in general"
     defaultTheme = "auto"
     images = ["/logo.png"]
 
