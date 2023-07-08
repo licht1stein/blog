@@ -64,3 +64,15 @@ rssFullText = true
     Line = false
     HackerNews = false
     Whatsapp = true
+
+[params.page.comment]
+    enable = true
+[params.page.comment.telegram]
+    enable = true
+    siteID = "JtLmc_ju"
+    limit = 5
+    height = ""
+    color = ""
+    colorful = true
+    dislikes = false
+    outlined = false
