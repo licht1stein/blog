@@ -1,63 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-    
-    <url>
-        <loc>/narratives/</loc>
-        <lastmod>2023-07-07T00:00:00+01:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/narratives/propaganda-tricks-1/</loc>
-        <lastmod>2023-07-07T00:00:00+01:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/</loc>
-        <lastmod>2023-07-07T00:00:00+01:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/narratives/elon-musk-and-the-magic-of-names/</loc>
-        <lastmod>2022-10-04T00:00:00+01:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/narratives/why-write/</loc>
-        <lastmod>2022-09-20T00:00:00+01:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/about/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/contact/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/credits/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/tags/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-</urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://keepthinking.blog/</loc><lastmod>2023-07-07T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://keepthinking.blog/posts/propaganda-tricks-1/</loc><lastmod>2023-07-07T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://keepthinking.blog/posts/</loc><lastmod>2023-07-07T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://keepthinking.blog/posts/elon-musk-and-the-magic-of-names/</loc><lastmod>2022-10-04T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://keepthinking.blog/posts/why-write/</loc><lastmod>2022-09-20T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://keepthinking.blog/narratives/elon-musk-and-the-magic-of-names/</loc></url><url>
+            <loc>https://keepthinking.blog/narratives/propaganda-tricks-1/</loc></url><url>
+            <loc>https://keepthinking.blog/narratives/why-write/</loc></url><url>
+            <loc>https://keepthinking.blog/categories/</loc></url><url>
+            <loc>https://keepthinking.blog/narratives/</loc></url><url>
+            <loc>https://keepthinking.blog/tags/</loc></url></urlset>
