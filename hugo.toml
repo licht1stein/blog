@@ -66,9 +66,9 @@ rssFullText = true
     Whatsapp = true
 
 [params.page.comment]
-    enable = true
+    enable = false
 [params.page.comment.telegram]
-    enable = true
+    enable = false
     siteID = "JtLmc_ju"
     limit = 5
     height = ""
