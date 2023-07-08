@@ -33,6 +33,7 @@ enableRobotsTXT = true
     subtitle = ""
     typeit = false
     social = true
+    align = "left"
 
 [params.header]
     desktopMode = "normal"
@@ -43,7 +44,9 @@ enableRobotsTXT = true
     typeit = true
 
 [params.footer]
-    enable = false
+    enable = true
+    hugo = false
+    license = "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0 International License</a>"
 
 [params.list]
     rss = 10
