@@ -1,0 +1,4 @@
+{:tasks
+ {server
+  {:doc "Start Hugo server"
+   :task (apply shell "hugo server -D --disableFastRender -p 8080" *command-line-args*)}}}

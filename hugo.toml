@@ -1,0 +1,60 @@
+baseURL = 'https://keepthinking.blog/'
+theme = "LoveIt"
+languageCode = 'en-us'
+languageName = "English"
+hasCJKLanguage = false
+title = 'Keep Thinking'
+enableRobotsTXT = true
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false  is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+        unsafe = true
+
+[params]
+    title = "Keep Thinking"
+    defaultTheme = "auto"
+    images = ["/logo.png"]
+
+[params.social]
+    RSS = true
+
+[params.home.profile]
+    enable = true
+    subtitle = ""
+    typeit = false
+    social = true
+
+[params.header]
+    desktopMode = "fixed"
+    mobileMode = "auto"
+
+
+[params.header.title]
+    name = "Keep Thinking"
+    typeit = true
+
+[params.footer]
+    enable = false
+
+[params.list]
+    rss = 10
+
+[params.page]
+rssFullText = true
+
+[params.page.share]
+    enable = false
+    Twitter = true
+    Facebook = true
+    Telegram = true
+    Weibo = false
+    Reddit = true
+    Line = false
+    HackerNews = false
+    Whatsapp = true
