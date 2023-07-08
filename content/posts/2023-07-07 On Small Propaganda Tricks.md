@@ -2,7 +2,7 @@
 title: On Small Propaganda Tricks
 date: 2023-07-07
 draft: false
-author: Mykhaylo Bilyanskyy
+author: Mykhaylo Beliansky
 toc: false
 slug: propaganda-tricks-1
 ---
