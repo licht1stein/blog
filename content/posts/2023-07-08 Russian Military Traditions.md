@@ -1,6 +1,6 @@
 ---
 title: On Russian Military Traditions
-date: 2023-07-07
+date: 2023-07-10
 draft: false
 author: Mykhaylo Beliansky
 toc: false
