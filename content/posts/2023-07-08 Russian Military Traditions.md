@@ -19,6 +19,6 @@ There is no surprise for me in nothing changing in thirty short years because no
 Russians are right when they are claiming that they are a country of ancient traditions. I'm quite sure we could trace this kind of tradition even further back in time, maybe all the way to the Golden Horde.
 
 [^1]: [Soldiers of Afghan War (Russian Language)](http://afghan-war-soldiers.ru/)
-[^2]: [*Haji Murad*](https://mthoyibi.files.wordpress.com/2011/03/hadji-murad_leo-tolstoy.pdf) by Leo Tolstoy
+[^2]: [*Haji Murad*](https://mthoyibi.files.wordpress.com/2011/03/hadji-murad_leo-tolstoy.pdf) by Leo Tolstoy, Chapter XVII
 [^aoul]: village
 [^saklya]: house
