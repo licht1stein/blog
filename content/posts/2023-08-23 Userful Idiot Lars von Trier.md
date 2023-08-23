@@ -18,6 +18,8 @@ So today we look at an [instagram post](https://www.instagram.com/p/CwQF70VMWS3/
 
 Interesting point Mr. von Trier. So when Russians bomb our cities we shouldn't defend ourselves because we should care about Russian lives. 
 
-What about an extremely simple way of protecting Russian lives: getting out of Ukraine? It's not the victims fault that the attacker got injured, it's the victims achievement.
+What about an extremely simple way of protecting Russian lives: getting out of Ukraine? 
+
+It's not the victim's fault that the attacker got injured while attacking. It's the victim's *achievement*.
 
 So if you want to protect Russian lives then help us stop the war, not put your influence behind their aggression.
