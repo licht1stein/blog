@@ -16,6 +16,16 @@ So today we look at an [instagram post](https://www.instagram.com/p/CwQF70VMWS3/
 
 <img src="/img/lars-post.png" alt="Lars von Trier instagram post saying To Mr. Zelenskyj and Mr. Putin, and not least Mrs. Frederiksen (who yesterday, like someone head over heels in love, posed in the cockpit of one of the scariest killing machines of our time, grinning from ear to ear): RUSSIAN LIVES MATTER ALSO!">
 
+The post reads: 
+
+>By the way:
+>To Mr. Zelenskyj and Mr. Putin, and not least Mrs. Frederiksen (who yesterday, like someone head over heels in love, posed in the cockpit of one of the scariest killing machines of our time, grinning from ear to ear):
+> 
+>“RUSSIAN LIVES MATTER ALSO!”
+>
+>Best regards Lars
+
+
 Interesting point Mr. von Trier. So when Russians bomb our cities we shouldn't defend ourselves because we should care about Russian lives. 
 
 What about an extremely simple way of protecting Russian lives: getting out of Ukraine? 
