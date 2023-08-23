@@ -4,6 +4,7 @@ date: 2022-10-04
 draft: false
 author: Mykhaylo Beliansky
 toc: false
+tags: ["useful-idiots"]
 slug: elon-musk-and-the-magic-of-names
 keywords: Ukraine, Elon Musk, Crimea, Twitter, thinking, critical thinking
 socialshare: true
