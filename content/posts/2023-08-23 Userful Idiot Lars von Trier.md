@@ -10,9 +10,9 @@ slug: useful-idiot-lars-von-trier
 
 With this post I'm starting a new section on this blog about **useful idiots**. 
 
-I will shortly write about celebrities, opinion leaders etc. that are used by Russian propaganda with them having no clue (differently from people who are obviously Russian assets). I plant to write a more detailed post on the history of the term "useful idiot" in the future.
+I intend to write about celebrities, opinion leaders etc. that are used by Russian propaganda with them having no clue (differently from people who are obviously Russian assets). I plan to write a more detailed post on the history of the term "useful idiot" in the future.
 
-So today we look at a renowned Danish director Lars von Trier:
+So today we look at an [instagram post](https://www.instagram.com/p/CwQF70VMWS3/) by renowned Danish director Lars von Trier:
 
 <img src="/img/lars-post.png" alt="Lars von Trier instagram post saying To Mr. Zelenskyj and Mr. Putin, and not least Mrs. Frederiksen (who yesterday, like someone head over heels in love, posed in the cockpit of one of the scariest killing machines of our time, grinning from ear to ear): RUSSIAN LIVES MATTER ALSO!">
 
