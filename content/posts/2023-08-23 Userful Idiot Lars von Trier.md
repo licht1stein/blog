@@ -8,7 +8,7 @@ tags: ["useful-idiots"]
 slug: useful-idiot-lars-von-trier
 ---
 
-With this post I'm starting a new section on this blog about **useful idiots**. 
+With this post I'm starting a new section on this blog about [**useful idiots**](https://keepthinking.blog/tags/useful-idiots/). 
 
 I intend to write about celebrities, opinion leaders etc. that are used by Russian propaganda with them having no clue (differently from people who are obviously Russian assets). I plan to write a more detailed post on the history of the term "useful idiot" in the future.
 
