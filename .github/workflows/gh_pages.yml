@@ -14,10 +14,13 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-      - name: Add Umami Analytics Tracking Code
-        uses: tzafrirben/babashka-docker-action@v1
+      - name: Install clojure tools
+        uses: DeLaGuardo/setup-clojure@12.1
         with:
-          bb_cmd: bb track
+          bb: latest
+          
+      - name: Add Umami Analytics Tracking Code
+        run: bb track
       
       - name: Hugo Module Cache
         uses: actions/cache@v2
