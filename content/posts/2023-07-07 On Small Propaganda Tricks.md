@@ -4,6 +4,7 @@ date: 2023-07-07
 draft: false
 author: Mykhaylo Beliansky
 toc: false
+tags: ["propaganda"]
 slug: propaganda-tricks-1
 ---
 ## The Inspiration
