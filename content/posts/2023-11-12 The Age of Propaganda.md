@@ -67,7 +67,7 @@ But it's not true. It's not unseen. The scale of the humanitarian tragedy in Isr
 
 Yet we don't see such scale of protests on the streets. Why? Because Ukraine sucks at informational warfare and Russia is good at it. Russia has been pouring millions into propaganda everywhere and helping HAMAS along the way. Nobody cares about a full-scale war at their doorstep any more. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EDJVeO_Mw0g?si=ElrT236ibYK1Vdzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="448" height="252" src="https://www.youtube.com/embed/EDJVeO_Mw0g?si=ElrT236ibYK1Vdzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Humans can only worry about one thing at a time. So while they are worrying about Israel killing Palestinian children they are not worrying about Russia killing and kidnapping Ukrainian children on a much larger scale.**
 
