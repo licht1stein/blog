@@ -1,4 +1,10 @@
-{:tasks
+{:paths ["bb"]
+ :tasks
  {server
   {:doc "Start Hugo server"
-   :task (apply shell "hugo server -D --disableFastRender -p 8080" *command-line-args*)}}}
+   :task (apply shell "hugo server -D --disableFastRender -p 8080" *command-line-args*)}
+
+  track
+  {:doc "Add umami tracking code to the site"
+   :requires ([tracking :as t])
+   :task (t/append-tracking-code)}}}
