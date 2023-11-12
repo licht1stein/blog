@@ -42,7 +42,7 @@ I mean you need motivation to say the truth instead of lying to everybody to you
 <figcaption style="text-align: left">Presumably independent reporter kissed by one of HAMAS leaders</figcaption>
 </figure>
 
-Obviously any dictatorship will use any truth it can in propaganda. Truth is more convincing when it plays along. But it's like with the famous saying that even a broken watch show correct time twice a day. 
+Obviously any dictatorship will use any truth it can in propaganda. Truth is more convincing when it plays along. But it's like with the famous saying that even a broken watch shows correct time twice a day. 
 
 The scary thing the people see the photos like the ones shown — with the same actor playing a distressed citizen, a fighter, a mourning father, and injured civilian, a doctor and a reporter. And people read stories that presumably independent reporters were magically present at the border when HAMAS breached it. And it changes nothing.
 
@@ -52,15 +52,22 @@ And once it succeeded... it's not afraid of truth any more.
 
 HAMAS is openly saying *"we used the money received as aid from developed nations to build underground tunnels and weapons. Protection of civilians is the task of UN"*. And does it affect their popularity? No. Because the emotional link is already there "Israelis are killing civilians".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LoOH4R3HrUw?si=fU_Xklp1UhVamLvh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<figure style="float: right; margin-left: 20px; width: 50%; margin-bottom: 20px">
+<video controls width="240">
+<source src="/img/2023-11-12-london-rally.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+<figcaption style="text-align: left">Pro-Palestine Rally in London, November 2023
+<a href="https://mstdn.social/@Free_Press/111394007726791848">(source)</a></figcaption>
+</figure>
 
 People are rallying on the streets because of the *"humanitarian crisis unseen in the last 80 years"* demanding cease-fire. 
 
 But it's not true. It's not unseen. The scale of the humanitarian tragedy in Israel and Palestine is simply incomparable to what is happening in Ukraine. The death toll of the war Russia is waging against Ukraine is in the *hundred thousands*. Entire cities were erased from the face of the earth. There are more landmines than ever in human history anywhere. And it's much, much closer to Europe.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EDJVeO_Mw0g?si=ElrT236ibYK1Vdzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 Yet we don't see such scale of protests on the streets. Why? Because Ukraine sucks at informational warfare and Russia is good at it. Russia has been pouring millions into propaganda everywhere and helping HAMAS along the way. Nobody cares about a full-scale war at their doorstep any more. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EDJVeO_Mw0g?si=ElrT236ibYK1Vdzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Humans can only worry about one thing at a time. So while they are worrying about Israel killing Palestinian children they are not worrying about Russia killing and kidnapping Ukrainian children on a much larger scale.**
 
