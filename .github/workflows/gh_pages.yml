@@ -16,9 +16,9 @@ jobs:
 
       - name: Add Umami Analytics Tracking Code
         uses: tzafrirben/babashka-docker-action@v1
-  with:
-      bb_cmd: bb track
-
+        with:
+          bb_cmd: bb track
+      
       - name: Hugo Module Cache
         uses: actions/cache@v2
         with:
